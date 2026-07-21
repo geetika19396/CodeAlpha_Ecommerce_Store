@@ -59,7 +59,7 @@ This project allows users to register, login, browse products, view product deta
 - Live Server
 ---
 
-
+```text
 # 📁 Project Structure
 
 CodeAlpha_Ecommerce_Store
